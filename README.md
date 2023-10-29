@@ -1,3 +1,4 @@
+<img src="ico/icon.png" alt="SAF" width="320" style="text-align: center;">
 # SAF Nedir
 - SAF, güvenlik testleri ve osint araçları gibi çeşitli özellikleri içinde barındıran, yüksek iş parçacıklarına sahip, Python tabanlı bir araçtır. Hızlı deneyim sunmasıyla bilinen SAF, ücretsiz ve açık kaynaklı olmasıyla birlikte sizlerin kullanımına açılmıştır.
 
